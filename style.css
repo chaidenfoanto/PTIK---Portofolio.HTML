@@ -1,0 +1,26 @@
+.active{
+    color: #ff4500;
+}
+
+button{
+    width: 180px;
+    height: 30px;
+    background-color: rgb(120, 179, 194);
+    color: rgb(252, 252, 252);
+}
+
+.pendidikan{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1px;
+}
+
+.pengalaman{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: -18px;
+    line-height: 19px;
+}
+
+.keterampilan{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 19px;
+}
